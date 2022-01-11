@@ -1,7 +1,9 @@
+import Navbar from "./components/Navbar";
+
+
 function App() {
   return (
-    <h1>Olá quase</h1>
-  );
+    <Navbar />);
 }
 
 export default App;
