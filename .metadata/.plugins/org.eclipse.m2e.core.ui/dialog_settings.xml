@@ -3,6 +3,7 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 			<item value="C:\Users\henri\Desktop\Dados\Projetos\sds-dsmovie\dsmovie\backend"/>
+			<item value="C:\Users\henri\Desktop\Dados\Projetos\sds-dsmovie"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
