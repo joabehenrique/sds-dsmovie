@@ -23,7 +23,7 @@ public class MovieService {
 		return page;
 	}
 	
-	public MovieDTO finById(Long id) {
+	public MovieDTO findById(Long id) {
 		Movie result = repository.findById(id).get();
 		MovieDTO dto = new MovieDTO(result);
 		return dto;

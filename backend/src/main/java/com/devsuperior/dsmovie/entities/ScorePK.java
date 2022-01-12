@@ -12,11 +12,11 @@ public class ScorePK implements Serializable {
 	private static final long serialVersionUID = 1L;
 	
 	@ManyToOne
-	@JoinColumn(name = "movie_id")
+	@JoinColumn(name = "user_id")
 	private User user;
 	
 	@ManyToOne
-	@JoinColumn(name = "user_id")
+	@JoinColumn(name = "movie_id")
 	private Movie movie;
 	
 	public ScorePK() {
