@@ -28,3 +28,8 @@ header {
     margin: 0 10px;
     font-size: 12px;
 }
+
+.link-unstyled, .link-unstyled:link, .link-unstyled:hover {
+    color: inherit;
+    text-decoration: inherit;
+  }
