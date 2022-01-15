@@ -33,10 +33,8 @@ function Star({ fill }: StarProps) {
     switch (fill) {
         case 0:
             return <StarEmpty />
-            break;
         case 1:
             return <StarFull />
-            break;
         default: return <StarHalf />
     }
 }
