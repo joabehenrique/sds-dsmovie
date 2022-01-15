@@ -1,4 +1,4 @@
-# [:hammer_and_wrench: Working..] SDS DSMovie
+# [:hammer_and_wrench: Finishing..] SDS DSMovie
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/joabehenrique/sds-dsmovie?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/joabehenrique/sds-dsmovie?style=flat)
@@ -31,7 +31,7 @@ To install ..., follow these steps:
 To use ..., follow these steps:
 
 ```
-
+project available at: https://jh-dsmovie.netlify.app/
 ```
 
 ## 📫 Contributing to Exlivery
