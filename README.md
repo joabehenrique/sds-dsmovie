@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/joabehenrique/sds-dsmovie?style=flat)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joabehenrique/sds-dsmovie?style=flat)
 
-> Simple project developed ...
+> Project developed in Spring React Week, SDS 6.0 edition.
 
 ## 💻 Requirements
 
